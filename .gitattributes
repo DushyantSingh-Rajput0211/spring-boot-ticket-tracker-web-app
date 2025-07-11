@@ -1,6 +1,5 @@
 *.java linguist-detectable=true
-
-echo "*.html linguist-detectable=false
+*.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false
-src/main/java/** linguist-language=Java" > .gitattributes
+src/main/java/** linguist-language=Java

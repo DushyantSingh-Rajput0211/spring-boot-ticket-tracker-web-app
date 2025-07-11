@@ -2,7 +2,6 @@
 src/main/java/** linguist-language=Java
 
 # Include these in language stats (don't hide them)
-*.springboot linguist-detectable=true
 *.html linguist-detectable=true
 *.css linguist-detectable=true
 *.js linguist-detectable=true

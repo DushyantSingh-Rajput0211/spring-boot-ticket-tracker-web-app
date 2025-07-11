@@ -1,4 +1,9 @@
-*.html linguist-detectable=false
-*.css linguist-detectable=false
-*.js linguist-detectable=false
+# Prioritize Java
 src/main/java/** linguist-language=Java
+
+# Include these in language stats (don't hide them)
+*.spring boot linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+*.sql linguist-detectable=true

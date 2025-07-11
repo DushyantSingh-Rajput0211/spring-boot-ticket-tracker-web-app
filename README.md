@@ -2,6 +2,17 @@
 
 A secure, full-featured Ticket Tracking System built with **Spring Boot** for efficient issue management and role-based user interaction. This web application facilitates the creation, tracking, and resolution of support tickets by both administrators and users in a streamlined interface.
 
+[![Java](https://img.shields.io/badge/Java-17-blue?logo=java)](https://www.oracle.com/java/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7-brightgreen?logo=spring-boot)](https://spring.io/projects/spring-boot)
+[![Spring Security](https://img.shields.io/badge/Spring%20Security-Secure-success?logo=spring)](https://spring.io/projects/spring-security)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-Templates-orange?logo=thymeleaf)](https://www.thymeleaf.org/)
+[![Hibernate](https://img.shields.io/badge/Hibernate-JPA-59666C?logo=hibernate)](https://hibernate.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql)](https://www.mysql.com/)
+[![Maven](https://img.shields.io/badge/Maven-Build%20Tool-C71A36?logo=apache-maven)](https://maven.apache.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-Frontend-E34F26?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-purple?logo=bootstrap)](https://getbootstrap.com/)
+
 ---
 
 ## 🔍 Project Overview

@@ -1,3 +1,5 @@
+*.java linguist-detectable=true
+
 echo "*.html linguist-detectable=false
 *.css linguist-detectable=false
 *.js linguist-detectable=false

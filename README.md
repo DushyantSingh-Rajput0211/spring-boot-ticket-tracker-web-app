@@ -97,3 +97,10 @@ spring-ticket-tracker/
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
+
+---
+
+## 👤 Author
+
+**Dushyant Singh Rajput**  
+[GitHub](https://github.com/DushyantSingh-Rajput0211) • [LinkedIn](https://www.linkedin.com/in/dushyantsingh-rajput)
